@@ -26,4 +26,4 @@ eyJ0eXBlIjoiZXhjYWxpZHJhdyIsInZlcnNpb24iOjIsInNvdXJjZSI6Im1hcmtpbmciLCJlbGVtZW50
 - [ ] game development ,The game is need creation , not more dilligent and better ,
 - [ ] such as , I need thinking or working , need timer ,this function should be integration to Game Develop Assistant ,
 - [ ] GDA ,ui ,timer
-- [ ] GDA ,life cost everyday ,battery rental fee ,rent ,utilities ,
+- [ ] GDA ,life cost everyday ,
